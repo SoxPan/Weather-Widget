@@ -1,0 +1,9 @@
+body {
+  background: rgb(253,116,108);
+  background: -moz-linear-gradient(-45deg,  rgba(253,116,108,1) 0%, rgba(255,136,106,1) 44%, rgba(255,144,104,1) 100%);
+  background: -webkit-linear-gradient(-45deg,  rgba(253,116,108,1) 0%,rgba(255,136,106,1) 44%,rgba(255,144,104,1) 100%);
+  background: linear-gradient(135deg,  rgba(253,116,108,1) 0%,rgba(255,136,106,1) 44%,rgba(255,144,104,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd746c', endColorstr='#ff9068',GradientType=1 );
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
